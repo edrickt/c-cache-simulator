@@ -1,9 +1,3 @@
-// Date: 11/27/22
-// Class: CS4541
-// Assignment: Assignment 2 - Cache Simulator
-// Author(s): Edrick Tamayo
-// Email: edrick.tamayo@wmich.edu
-
 #define _DEFAULT_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
