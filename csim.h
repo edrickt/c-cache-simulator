@@ -1,10 +1,3 @@
-// Date: 11/27/22
-// Class: CS4541
-// Assignment: Assignment 2 - Cache Simulator
-// Author(s): Edrick Tamayo
-// Email: edrick.tamayo@zoho.com
-
-
 // Structs *****************************************************************************************************************
 // Holds arguments from command line
 typedef struct ArgumentStruct {
